@@ -83,7 +83,4 @@ int main()
     
     return 0;
 }
-//A shoulder to cry is a dick to ride ;)
-//Jai Jesus
-
 // Trying to update the same functionality.
